@@ -1,0 +1,9 @@
+body {
+	background: #fff;
+	background: #F9FCFD;
+  background: -webkit-linear-gradient(left top, white, rgba(160,240,255,0.1), rgba(160,240,255,0.2), rgba(160,204,0,0.2));
+  background: -moz-linear-gradient(bottom right, white, rgba(160,240,255,0.1), rgba(160,240,255,0.2), rgba(160,204,0,0.2));
+  background: -o-linear-gradient(bottom right, white, rgba(160,240,255,0.1), rgba(160,240,255,0.2), rgba(160,204,0,0.2));
+  background: linear-gradient(to bottom right, white, rgba(160,240,255,0.1), rgba(160,240,255,0.2), rgba(160,204,0,0.2));
+	background-attachment: fixed;
+}
